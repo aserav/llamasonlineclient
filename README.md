@@ -36,6 +36,7 @@ Enter server and voice channel IDs
 
 Configure your presence (activity + status)
 
+```
 ## Preview
 
 ### Preview 1
