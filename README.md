@@ -37,7 +37,6 @@ Enter server and voice channel IDs
 Configure your presence (activity + status)
 
 ```
-## Preview
 
 ## Preview 1
 ![Preview 1](https://raw.githubusercontent.com/aserav/llamasonlineclient/main/preview1.png)
