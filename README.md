@@ -39,9 +39,9 @@ Configure your presence (activity + status)
 ```
 ## Preview
 
-### Preview 1
+## Preview 1
 ![Preview 1](https://raw.githubusercontent.com/aserav/llamasonlineclient/main/preview1.png)
 
-### Preview 2
+## Preview 2
 ![Preview 2](https://raw.githubusercontent.com/aserav/llamasonlineclient/main/preview2.png)
 
