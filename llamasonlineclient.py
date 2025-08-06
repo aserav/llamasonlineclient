@@ -94,7 +94,7 @@ async def send_presence(ws):
         "type": presence_config["type_id"]
     }
     if presence_config["type_id"] == 1:
-        activity["url"] = presence_config.get("url", "https://twitch.tv/llama")
+        activity["url"] = presence_config.get("url", "https://twitch.tv/ninja")
 
     payload = {
         "op": 3,
@@ -233,7 +233,7 @@ def get_presence_config():
     # STREAMING URL (only if streaming)
     stream_url = ""
     if type_choice == "1":
-        default_url = "https://twitch.tv/llama"
+        default_url = "https://twitch.tv/ninja"
         stream_url = input(f"\nStream URL [default: {default_url}]: ").strip()
         if not stream_url:
             stream_url = default_url
@@ -316,3 +316,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print(f"\n{COLOR_RED}[-] Program terminated{COLOR_RESET}")
         time.sleep(1)
+
