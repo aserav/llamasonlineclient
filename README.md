@@ -1,4 +1,4 @@
-# Llama's Online Client - Permanent Discord VC Presence V1
+# Llama's Online Client - 24/7 Permanent Discord VC Presence V1
 
 A Python script to keep a Discord user account permanently online in a voice channel with a custom presence.
 
